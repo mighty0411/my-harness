@@ -1,0 +1,33 @@
+{
+  "input": {
+    "screens": [
+      "홈",
+      "스킬 라이브러리",
+      "내 자산"
+    ],
+    "competitors": [],
+    "figma_url": "https://www.figma.com/design/CNelXB5JxSwpeJNurQRm3L/Design-harness"
+  },
+  "stages": {
+    "S1": "passed",
+    "S2": "passed",
+    "S3": "passed",
+    "S4": "passed",
+    "S5": "passed",
+    "S6": "passed",
+    "S7": "passed",
+    "S8": "passed"
+  },
+  "failures": {
+    "S1": 0,
+    "S2": 0,
+    "S3": 0,
+    "S4": 0,
+    "S5": 0,
+    "S6": 0,
+    "S7": 0,
+    "S8": 0
+  },
+  "last_passed": "S8",
+  "updated_at": "2026-10-03T00:27:40"
+}

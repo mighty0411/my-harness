@@ -1,0 +1,3204 @@
+{
+ "frames": [
+  {
+   "id": "35:82",
+   "name": "skill-card",
+   "page": "S6 Components",
+   "width": 964,
+   "height": 92,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:20",
+     "name": "layout=full, verified=true",
+     "type": "FRAME",
+     "width": 358,
+     "height": 92,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 24,
+     "strokes": [
+      {
+       "color": "#f0f0f0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 16,
+      "bottom": 16
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "35:71",
+     "name": "title",
+     "type": "TEXT",
+     "width": 324,
+     "height": 20,
+     "effects": [],
+     "text": "프롬프트 모음",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 17
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:72",
+     "name": "description",
+     "type": "TEXT",
+     "width": 324,
+     "height": 16,
+     "effects": [],
+     "text": "메일·회의록 정리에 쓰는 프롬프트를 담았어요",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:73",
+     "name": "meta",
+     "type": "FRAME",
+     "width": 324,
+     "height": 14,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "effects": []
+    },
+    {
+     "id": "35:74",
+     "name": "카테고리·유형",
+     "type": "TEXT",
+     "width": 85,
+     "height": 14,
+     "effects": [],
+     "text": "AI 실무 · 프롬프트",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:75",
+     "name": "검증된 스킬",
+     "type": "TEXT",
+     "width": 55,
+     "height": 14,
+     "effects": [],
+     "text": "검증된 스킬",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:69",
+     "name": "layout=compact, verified=false",
+     "type": "FRAME",
+     "width": 200,
+     "height": 88,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 24,
+     "strokes": [
+      {
+       "color": "#f0f0f0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 16,
+      "bottom": 16
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "35:76",
+     "name": "title",
+     "type": "TEXT",
+     "width": 166,
+     "height": 18,
+     "effects": [],
+     "text": "프롬프트 모음",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:77",
+     "name": "description",
+     "type": "TEXT",
+     "width": 166,
+     "height": 32,
+     "effects": [],
+     "text": "메일·회의록 정리에 쓰는 프롬프트를 담았어요",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:70",
+     "name": "layout=full, verified=false",
+     "type": "FRAME",
+     "width": 358,
+     "height": 92,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 24,
+     "strokes": [
+      {
+       "color": "#f0f0f0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 16,
+      "bottom": 16
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "35:78",
+     "name": "title",
+     "type": "TEXT",
+     "width": 324,
+     "height": 20,
+     "effects": [],
+     "text": "프롬프트 모음",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 17
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:79",
+     "name": "description",
+     "type": "TEXT",
+     "width": 324,
+     "height": 16,
+     "effects": [],
+     "text": "메일·회의록 정리에 쓰는 프롬프트를 담았어요",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "35:80",
+     "name": "meta",
+     "type": "FRAME",
+     "width": 324,
+     "height": 14,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "effects": []
+    },
+    {
+     "id": "35:81",
+     "name": "카테고리·유형",
+     "type": "TEXT",
+     "width": 85,
+     "height": 14,
+     "effects": [],
+     "text": "AI 실무 · 프롬프트",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    }
+   ]
+  },
+  {
+   "id": "35:90",
+   "name": "list-row",
+   "page": "S6 Components",
+   "width": 708,
+   "height": 57,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "I23:30;23:3",
+     "name": "text",
+     "type": "TEXT",
+     "effects": [],
+     "text": "작성 중",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "23:26",
+     "name": "kind=progress",
+     "type": "FRAME",
+     "width": 326,
+     "height": 50,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 8,
+      "bottom": 8
+     },
+     "itemSpacing": 12,
+     "effects": []
+    },
+    {
+     "id": "23:27",
+     "name": "row-info",
+     "type": "FRAME",
+     "width": 222,
+     "height": 34,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:28",
+     "name": "title",
+     "type": "TEXT",
+     "width": 222,
+     "height": 18,
+     "effects": [],
+     "text": "업무 자동화 프롬프트 만들기",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "23:29",
+     "name": "최근 수정일",
+     "type": "TEXT",
+     "width": 222,
+     "height": 16,
+     "effects": [],
+     "text": "9월 28일 수정",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "23:30",
+     "name": "status-badge",
+     "type": "FRAME",
+     "width": 60,
+     "height": 24,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "dashed"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "icon": null,
+     "text": "작성 중",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     }
+    },
+    {
+     "id": "35:83",
+     "name": "kind=summary",
+     "type": "FRAME",
+     "width": 358,
+     "height": 57,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 8,
+      "bottom": 8
+     },
+     "itemSpacing": 12,
+     "effects": []
+    },
+    {
+     "id": "35:84",
+     "name": "row-info",
+     "type": "FRAME",
+     "width": 298,
+     "height": 41,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:85",
+     "name": "title",
+     "type": "TEXT",
+     "width": 298,
+     "height": 23,
+     "effects": [],
+     "text": "내 자산 12개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:86",
+     "name": "개수 요약",
+     "type": "TEXT",
+     "width": 298,
+     "height": 18,
+     "effects": [],
+     "text": "임시저장 3 · 검수 대기 2 · 승인됨 7",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:89",
+     "name": "화살표",
+     "type": "TEXT",
+     "width": 16,
+     "height": 20,
+     "effects": [],
+     "text": "→",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 17
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    }
+   ]
+  },
+  {
+   "id": "23:19",
+   "name": "status-badge",
+   "page": "S6 Components",
+   "width": 673,
+   "height": 27,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:2",
+     "name": "status=작성 중",
+     "type": "FRAME",
+     "width": 60,
+     "height": 27,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "dashed"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:3",
+     "name": "label",
+     "type": "TEXT",
+     "width": 34,
+     "height": 17,
+     "effects": [],
+     "text": "작성 중",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "23:4",
+     "name": "status=임시저장",
+     "type": "FRAME",
+     "width": 68,
+     "height": 27,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "dashed"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:5",
+     "name": "label",
+     "type": "TEXT",
+     "width": 42,
+     "height": 17,
+     "effects": [],
+     "text": "임시저장",
+     "textColor": "#707070",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
+     "id": "23:6",
+     "name": "status=제출 완료",
+     "type": "FRAME",
+     "width": 71,
+     "height": 27,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:7",
+     "name": "label",
+     "type": "TEXT",
+     "width": 45,
+     "height": 17,
+     "effects": [],
+     "text": "제출 완료",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "23:8",
+     "name": "status=검수 대기",
+     "type": "FRAME",
+     "width": 71,
+     "height": 27,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:9",
+     "name": "label",
+     "type": "TEXT",
+     "width": 45,
+     "height": 17,
+     "effects": [],
+     "text": "검수 대기",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "23:10",
+     "name": "status=수정 요청",
+     "type": "FRAME",
+     "width": 79,
+     "height": 27,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [
+      {
+       "color": "#141414",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:11",
+     "name": "icon/alert",
+     "type": "TEXT",
+     "width": 4,
+     "height": 17,
+     "effects": [],
+     "text": "!",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "23:12",
+     "name": "label",
+     "type": "TEXT",
+     "width": 45,
+     "height": 17,
+     "effects": [],
+     "text": "수정 요청",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "23:13",
+     "name": "status=승인됨",
+     "type": "FRAME",
+     "width": 71,
+     "height": 25,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:14",
+     "name": "icon/check",
+     "type": "TEXT",
+     "width": 11,
+     "height": 17,
+     "effects": [],
+     "text": "✓",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:15",
+     "name": "label",
+     "type": "TEXT",
+     "width": 32,
+     "height": 17,
+     "effects": [],
+     "text": "승인됨",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:16",
+     "name": "status=반려",
+     "type": "FRAME",
+     "width": 60,
+     "height": 25,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 12,
+      "right": 12,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:17",
+     "name": "icon/close",
+     "type": "TEXT",
+     "width": 11,
+     "height": 17,
+     "effects": [],
+     "text": "✕",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:18",
+     "name": "label",
+     "type": "TEXT",
+     "width": 21,
+     "height": 17,
+     "effects": [],
+     "text": "반려",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    }
+   ]
+  },
+  {
+   "id": "23:53",
+   "name": "tab-bar",
+   "page": "S6 Components",
+   "width": 1886,
+   "height": 56,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:32",
+     "name": "active=홈",
+     "type": "FRAME",
+     "width": 358,
+     "height": 56,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:19",
+     "name": "tab/홈",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:20",
+     "name": "홈",
+     "type": "TEXT",
+     "width": 12,
+     "height": 20,
+     "effects": [],
+     "text": "홈",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "35:21",
+     "name": "tab/자료",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:22",
+     "name": "자료",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "자료",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:23",
+     "name": "tab/스킬",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:24",
+     "name": "스킬",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "스킬",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:25",
+     "name": "tab/내 학습",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:26",
+     "name": "내 학습",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 학습",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:27",
+     "name": "tab/내 자산",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:28",
+     "name": "내 자산",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 자산",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:39",
+     "name": "active=스킬",
+     "type": "FRAME",
+     "width": 358,
+     "height": 56,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:39",
+     "name": "tab/홈",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:40",
+     "name": "홈",
+     "type": "TEXT",
+     "width": 12,
+     "height": 20,
+     "effects": [],
+     "text": "홈",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:41",
+     "name": "tab/자료",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:42",
+     "name": "자료",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "자료",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:43",
+     "name": "tab/스킬",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:44",
+     "name": "스킬",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "스킬",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "35:45",
+     "name": "tab/내 학습",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:46",
+     "name": "내 학습",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 학습",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:47",
+     "name": "tab/내 자산",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:48",
+     "name": "내 자산",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 자산",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:46",
+     "name": "active=내 자산",
+     "type": "FRAME",
+     "width": 358,
+     "height": 56,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:59",
+     "name": "tab/홈",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:60",
+     "name": "홈",
+     "type": "TEXT",
+     "width": 12,
+     "height": 20,
+     "effects": [],
+     "text": "홈",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:61",
+     "name": "tab/자료",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:62",
+     "name": "자료",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "자료",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:63",
+     "name": "tab/스킬",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:64",
+     "name": "스킬",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "스킬",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:65",
+     "name": "tab/내 학습",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:66",
+     "name": "내 학습",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 학습",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:67",
+     "name": "tab/내 자산",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:68",
+     "name": "내 자산",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 자산",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "35:3",
+     "name": "active=자료",
+     "type": "FRAME",
+     "width": 358,
+     "height": 56,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:29",
+     "name": "tab/홈",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:30",
+     "name": "홈",
+     "type": "TEXT",
+     "width": 12,
+     "height": 20,
+     "effects": [],
+     "text": "홈",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:31",
+     "name": "tab/자료",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:32",
+     "name": "자료",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "자료",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "35:33",
+     "name": "tab/스킬",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:34",
+     "name": "스킬",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "스킬",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:35",
+     "name": "tab/내 학습",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:36",
+     "name": "내 학습",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 학습",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:37",
+     "name": "tab/내 자산",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:38",
+     "name": "내 자산",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 자산",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:10",
+     "name": "active=내 학습",
+     "type": "FRAME",
+     "width": 358,
+     "height": 56,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:49",
+     "name": "tab/홈",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:50",
+     "name": "홈",
+     "type": "TEXT",
+     "width": 12,
+     "height": 20,
+     "effects": [],
+     "text": "홈",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:51",
+     "name": "tab/자료",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:52",
+     "name": "자료",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "자료",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:53",
+     "name": "tab/스킬",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:54",
+     "name": "스킬",
+     "type": "TEXT",
+     "width": 23,
+     "height": 20,
+     "effects": [],
+     "text": "스킬",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "35:55",
+     "name": "tab/내 학습",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:56",
+     "name": "내 학습",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 학습",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "35:57",
+     "name": "tab/내 자산",
+     "type": "FRAME",
+     "width": 70,
+     "height": 48,
+     "fills": [],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "35:58",
+     "name": "내 자산",
+     "type": "TEXT",
+     "width": 37,
+     "height": 20,
+     "effects": [],
+     "text": "내 자산",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    }
+   ]
+  },
+  {
+   "id": "23:98",
+   "name": "visibility-selector",
+   "page": "S6 Components",
+   "width": 1838,
+   "height": 229,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:54",
+     "name": "role=seller, selected=private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 229,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 8,
+     "effects": []
+    },
+    {
+     "id": "23:55",
+     "name": "option/private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": true
+    },
+    {
+     "id": "23:56",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "비공개",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:57",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "나만 볼 수 있어요",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:58",
+     "name": "option/member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:59",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "멤버 공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:60",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "멤버에게 공개돼요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:61",
+     "name": "option/sale-request",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:62",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "판매 신청",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:63",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "검수를 거쳐 판매를 신청해요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:64",
+     "name": "role=seller, selected=member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 229,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 8,
+     "effects": []
+    },
+    {
+     "id": "23:65",
+     "name": "option/private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:66",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "비공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:67",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "나만 볼 수 있어요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:68",
+     "name": "option/member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": true
+    },
+    {
+     "id": "23:69",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "멤버 공개",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:70",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "멤버에게 공개돼요",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:71",
+     "name": "option/sale-request",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:72",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "판매 신청",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:73",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "검수를 거쳐 판매를 신청해요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:74",
+     "name": "role=seller, selected=sale-request",
+     "type": "FRAME",
+     "width": 342,
+     "height": 229,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 8,
+     "effects": []
+    },
+    {
+     "id": "23:75",
+     "name": "option/private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:76",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "비공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:77",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "나만 볼 수 있어요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:78",
+     "name": "option/member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:79",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "멤버 공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:80",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "멤버에게 공개돼요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:81",
+     "name": "option/sale-request",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": true
+    },
+    {
+     "id": "23:82",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "판매 신청",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:83",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "검수를 거쳐 판매를 신청해요",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:84",
+     "name": "role=non-seller, selected=private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 150,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 8,
+     "effects": []
+    },
+    {
+     "id": "23:85",
+     "name": "option/private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": true
+    },
+    {
+     "id": "23:86",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "비공개",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:87",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "나만 볼 수 있어요",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:88",
+     "name": "option/member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:89",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "멤버 공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:90",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "멤버에게 공개돼요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:91",
+     "name": "role=non-seller, selected=member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 150,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 8,
+     "effects": []
+    },
+    {
+     "id": "23:92",
+     "name": "option/private",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": false
+    },
+    {
+     "id": "23:93",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "비공개",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:94",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "나만 볼 수 있어요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:95",
+     "name": "option/member-only",
+     "type": "FRAME",
+     "width": 342,
+     "height": 71,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 4,
+     "effects": [],
+     "selected": true
+    },
+    {
+     "id": "23:96",
+     "name": "label",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "멤버 공개",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:97",
+     "name": "description",
+     "type": "TEXT",
+     "width": 310,
+     "height": 20,
+     "effects": [],
+     "text": "멤버에게 공개돼요",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    }
+   ]
+  },
+  {
+   "id": "23:99",
+   "name": "file-attach-row",
+   "page": "S6 Components",
+   "width": 342,
+   "height": 60,
+   "padding": {
+    "left": 16,
+    "right": 8
+   },
+   "nodes": [
+    {
+     "id": "23:99",
+     "name": "file-attach-row",
+     "type": "FRAME",
+     "width": 342,
+     "height": 60,
+     "fills": [
+      "#f0f0f0"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 8,
+      "top": 8,
+      "bottom": 8
+     },
+     "itemSpacing": 12,
+     "effects": []
+    },
+    {
+     "id": "23:100",
+     "name": "texts",
+     "type": "FRAME",
+     "width": 218,
+     "height": 44,
+     "fills": [],
+     "cornerRadius": 0,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 4,
+     "effects": []
+    },
+    {
+     "id": "23:101",
+     "name": "label",
+     "type": "TEXT",
+     "width": 218,
+     "height": 23,
+     "effects": [],
+     "text": "첨부 파일",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f0f0f0"
+    },
+    {
+     "id": "23:102",
+     "name": "hint",
+     "type": "TEXT",
+     "width": 218,
+     "height": 17,
+     "effects": [],
+     "text": "선택한 파일이 없어요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f0f0f0"
+    },
+    {
+     "id": "23:103",
+     "name": "button/attach",
+     "type": "FRAME",
+     "width": 88,
+     "height": 44,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": [],
+     "variant": "enabled"
+    },
+    {
+     "id": "23:104",
+     "name": "label",
+     "type": "TEXT",
+     "width": 56,
+     "height": 23,
+     "effects": [],
+     "text": "파일 선택",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    }
+   ]
+  },
+  {
+   "id": "23:112",
+   "name": "confirm-checkbox",
+   "page": "S6 Components",
+   "width": 716,
+   "height": 64,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:105",
+     "name": "checked=false",
+     "type": "FRAME",
+     "width": 342,
+     "height": 64,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 12,
+     "effects": []
+    },
+    {
+     "id": "23:106",
+     "name": "checkbox-box",
+     "type": "FRAME",
+     "width": 24,
+     "height": 24,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "effects": []
+    },
+    {
+     "id": "23:107",
+     "name": "label",
+     "type": "TEXT",
+     "width": 274,
+     "height": 40,
+     "effects": [],
+     "text": "금지 항목(개인정보, 고객정보, 회사기밀, 타인 저작물)이 포함되지 않았음을 확인합니다.",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    },
+    {
+     "id": "23:108",
+     "name": "checked=true",
+     "type": "FRAME",
+     "width": 342,
+     "height": 64,
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 12,
+     "effects": []
+    },
+    {
+     "id": "23:109",
+     "name": "checkbox-box",
+     "type": "FRAME",
+     "width": 24,
+     "height": 24,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:110",
+     "name": "icon/check",
+     "type": "TEXT",
+     "width": 11,
+     "height": 17,
+     "effects": [],
+     "text": "✓",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:111",
+     "name": "label",
+     "type": "TEXT",
+     "width": 274,
+     "height": 40,
+     "effects": [],
+     "text": "금지 항목(개인정보, 고객정보, 회사기밀, 타인 저작물)이 포함되지 않았음을 확인합니다.",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f3f3f3"
+    }
+   ]
+  },
+  {
+   "id": "23:117",
+   "name": "submit-button",
+   "page": "S6 Components",
+   "width": 716,
+   "height": 48,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:113",
+     "name": "variant=enabled",
+     "type": "FRAME",
+     "width": 342,
+     "height": 48,
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:114",
+     "name": "label",
+     "type": "TEXT",
+     "width": 52,
+     "height": 23,
+     "effects": [],
+     "text": "제출하기",
+     "textColor": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#141414"
+    },
+    {
+     "id": "23:115",
+     "name": "variant=disabled",
+     "type": "FRAME",
+     "width": 342,
+     "height": 48,
+     "fills": [
+      "#e0e0e0"
+     ],
+     "cornerRadius": 9999,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:116",
+     "name": "label",
+     "type": "TEXT",
+     "width": 52,
+     "height": 23,
+     "effects": [],
+     "text": "제출하기",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#e0e0e0"
+    }
+   ]
+  },
+  {
+   "id": "23:122",
+   "name": "text-input",
+   "page": "S6 Components",
+   "width": 716,
+   "height": 51,
+   "padding": {
+    "left": 0,
+    "right": 0
+   },
+   "nodes": [
+    {
+     "id": "23:118",
+     "name": "state=rest",
+     "type": "FRAME",
+     "width": 342,
+     "height": 47,
+     "fills": [
+      "#f0f0f0"
+     ],
+     "cornerRadius": 16,
+     "strokes": [],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:119",
+     "name": "placeholder",
+     "type": "TEXT",
+     "width": 310,
+     "height": 23,
+     "effects": [],
+     "text": "내용을 입력해 주세요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f0f0f0"
+    },
+    {
+     "id": "23:120",
+     "name": "state=focus",
+     "type": "FRAME",
+     "width": 342,
+     "height": 51,
+     "fills": [
+      "#f0f0f0"
+     ],
+     "cornerRadius": 16,
+     "strokes": [
+      {
+       "color": "#141414",
+       "weight": 2,
+       "style": "solid"
+      }
+     ],
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 12,
+      "bottom": 12
+     },
+     "itemSpacing": 0,
+     "effects": []
+    },
+    {
+     "id": "23:121",
+     "name": "placeholder",
+     "type": "TEXT",
+     "width": 306,
+     "height": 23,
+     "effects": [],
+     "text": "내용을 입력해 주세요",
+     "textColor": "#262626",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#f0f0f0"
+    }
+   ]
+  }
+ ],
+ "variables": {
+  "colors": [
+   "#141414",
+   "#707070",
+   "#ffffff",
+   "#f0f0f0",
+   "#e0e0e0",
+   "#262626",
+   "#f3f3f3"
+  ],
+  "radius": [
+   24,
+   9999,
+   16,
+   9999,
+   9999,
+   9999
+  ],
+  "spacing": [
+   0,
+   4,
+   8,
+   12,
+   16
+  ]
+ }
+}

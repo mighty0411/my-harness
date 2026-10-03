@@ -1,0 +1,14 @@
+<symbol id="23:54" name="role=seller, selected=private" x="0" y="0" width="342" height="229">
+  <frame id="23:55" name="option/private[selected]" x="0" y="0" width="342" height="71">
+    <text id="23:56" name="label" x="16" y="12" width="310" height="23" />
+    <text id="23:57" name="description" x="16" y="39" width="310" height="20" />
+  </frame>
+  <frame id="23:58" name="option/member-only" x="0" y="79" width="342" height="71">
+    <text id="23:59" name="label" x="16" y="12" width="310" height="23" />
+    <text id="23:60" name="description" x="16" y="39" width="310" height="20" />
+  </frame>
+  <frame id="23:61" name="option/sale-request" x="0" y="158" width="342" height="71">
+    <text id="23:62" name="label" x="16" y="12" width="310" height="23" />
+    <text id="23:63" name="description" x="16" y="39" width="310" height="20" />
+  </frame>
+</symbol>

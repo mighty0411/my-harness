@@ -1,0 +1,353 @@
+{
+  "frame": {
+    "width": 390,
+    "height": 844
+  },
+  "colors": [
+    "#141414",
+    "#ffffff",
+    "#f3f3f3",
+    "#fafafa",
+    "#e6f0ff",
+    "#f0f0f0",
+    "#e0e0e0",
+    "#262626",
+    "#707070",
+    "#adadad",
+    "#0066ff",
+    "rgba(115,115,115,0.56)"
+  ],
+  "accent": {
+    "hex": "#0066ff",
+    "max_per_frame": 2,
+    "cta": 0
+  },
+  "radius": {
+    "button": 8,
+    "badge": 9999,
+    "toggle": 9999,
+    "tab": 9999,
+    "input": 8,
+    "faq_row": 16,
+    "card": 24,
+    "media": [
+      0,
+      16,
+      24
+    ],
+    "app_icon_pct": 30
+  },
+  "shadow": {
+    "max": 0,
+    "exceptions": [
+      "segmented-control-active",
+      "tab-bar"
+    ],
+    "tokens": {
+      "shadow/nav": {
+        "applies_to": "tab-bar",
+        "color": "#141414",
+        "opacity": 0.1,
+        "x": 0,
+        "y": 4,
+        "blur": 16,
+        "spread": 0
+      }
+    }
+  },
+  "gradient_ui": 0,
+  "font": {
+    "family": "Pretendard",
+    "weights": [
+      300,
+      400,
+      600,
+      700
+    ],
+    "sizes": [
+      12,
+      13,
+      15,
+      17,
+      18,
+      20,
+      24,
+      28,
+      32
+    ],
+    "letter_spacing": 0,
+    "uppercase": false,
+    "weight_styles": {
+      "Thin": 100,
+      "ExtraLight": 200,
+      "Light": 300,
+      "Regular": 400,
+      "Medium": 500,
+      "SemiBold": 600,
+      "Bold": 700,
+      "ExtraBold": 800,
+      "Black": 900
+    }
+  },
+  "spacing": {
+    "steps": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64
+    ],
+    "screen_side_padding": 16
+  },
+  "touch_target_min_height": 44,
+  "input": {
+    "border_rest": 0,
+    "focus_ring": "1px #141414"
+  },
+  "contrast": {
+    "text_min": 4.5,
+    "exempt": [
+      "placeholder"
+    ],
+    "forbid": [
+      {
+        "fg": "#707070",
+        "bg": "#f3f3f3",
+        "role": "text"
+      },
+      {
+        "fg": "#707070",
+        "bg": "#f0f0f0",
+        "role": "text"
+      },
+      {
+        "fg": "#adadad",
+        "bg": "#ffffff",
+        "role": "body"
+      },
+      {
+        "fg": "#adadad",
+        "bg": "#f3f3f3",
+        "role": "body"
+      },
+      {
+        "fg": "#adadad",
+        "bg": "#f0f0f0",
+        "role": "body"
+      }
+    ]
+  },
+  "status_badges": {
+    "작성 중": {
+      "fill": "#ffffff",
+      "stroke": "#e0e0e0",
+      "stroke_style": "dashed",
+      "text": "#707070",
+      "icon": "✎"
+    },
+    "임시저장": {
+      "fill": "#ffffff",
+      "stroke": "#e0e0e0",
+      "stroke_style": "dashed",
+      "text": "#707070",
+      "icon": "▣"
+    },
+    "제출 완료": {
+      "stroke": "#141414",
+      "text": "#141414",
+      "icon": "➤"
+    },
+    "검수 대기": {
+      "stroke": "#e0e0e0",
+      "text": "#141414",
+      "icon": "◷"
+    },
+    "수정 요청": {
+      "stroke": "#141414",
+      "text": "#141414",
+      "icon": "!"
+    },
+    "승인됨": {
+      "fill": "#141414",
+      "text": "#ffffff",
+      "icon": "✓"
+    },
+    "반려": {
+      "fill": "#f3f3f3",
+      "text": "#141414",
+      "icon": "✕"
+    }
+  },
+  "violations": {
+    "V1": {
+      "screen": "내 자산 (자산 등록)",
+      "checks": [
+        "visibility-selector 안 기본 선택 옵션 = option/private",
+        "seller가 아닌 상태 프레임에 option/sale-request 노드 0개"
+      ],
+      "frames": [
+        "screen/my-assets/register@seller",
+        "screen/my-assets/register@non-seller"
+      ],
+      "default_option": "option/private"
+    },
+    "V2": {
+      "screen": "내 자산 (판매 신청)",
+      "checks": [
+        "금지 항목 4종(개인정보, 고객정보, 회사기밀, 타인 저작물) 텍스트 노드 존재",
+        "confirm-checkbox 노드 1개 이상",
+        "체크 전 상태 프레임의 submit-button 노드가 disabled 변형"
+      ],
+      "frames": [
+        "screen/my-assets/sale-request@unchecked",
+        "screen/my-assets/sale-request@checked"
+      ],
+      "required_phrases": [
+        "개인정보",
+        "고객정보",
+        "회사기밀",
+        "타인 저작물"
+      ]
+    }
+  },
+  "node_names": [
+    "visibility-selector",
+    "option/private",
+    "option/member-only",
+    "option/sale-request",
+    "confirm-checkbox",
+    "submit-button",
+    "status-badge",
+    "skill-card",
+    "list-row",
+    "tab-bar",
+    "file-attach-row"
+  ],
+  "figma": {
+    "file_name": "Design-harness",
+    "default_location": "Drafts",
+    "pages": [
+      "S4 Keyscreens (키스크린 시안)",
+      "S6 Components (토큰·컴포넌트)",
+      "S7 Screens (화면 디자인)"
+    ],
+    "frames": [
+      "screen/home",
+      "screen/skills",
+      "screen/my-assets/register",
+      "screen/my-assets/sale-request"
+    ],
+    "state_suffixes": {
+      "V1": [
+        "@seller",
+        "@non-seller"
+      ],
+      "V2": [
+        "@unchecked",
+        "@checked"
+      ]
+    },
+    "frame_size": {
+      "width": 390,
+      "height": 844
+    },
+    "judge_scope": "pages and frame names listed here only",
+    "state_tags": {
+      "selected": {
+        "applies_to": "option/*",
+        "effect": "selected=true (없으면 false)"
+      },
+      "disabled": {
+        "applies_to": "submit-button, button/*",
+        "effect": "variant=disabled (없으면 enabled)"
+      },
+      "focus": {
+        "applies_to": "text-input",
+        "effect": "state=focus (없으면 rest)"
+      }
+    },
+    "icon_nodes": {
+      "icon/check": "✓",
+      "icon/alert": "!",
+      "icon/close": "✕",
+      "icon/edit": "✎",
+      "icon/save": "▣",
+      "icon/send": "➤",
+      "icon/clock": "◷"
+    }
+  },
+  "gates": {
+    "screens": [
+      "홈",
+      "스킬 라이브러리",
+      "내 자산"
+    ],
+    "G1": {
+      "competitors_min": 3,
+      "refs_per_screen_min": 5
+    },
+    "G2": {
+      "points_min": 9,
+      "points_per_screen_min": 3
+    },
+    "G3": {
+      "required_subsections": [
+        "구성 요소",
+        "상태",
+        "상호작용"
+      ],
+      "my_assets_required": [
+        "비공개",
+        "멤버 공개",
+        "판매 신청",
+        "개인정보",
+        "고객정보",
+        "회사기밀",
+        "타인 저작물",
+        "확인 체크박스"
+      ],
+      "mvp_excluded_terms": [
+        "허들링 픽",
+        "구매",
+        "피드백",
+        "판매 중",
+        "판매 중지"
+      ],
+      "exclusion_marker": "제외"
+    },
+    "G4": {
+      "frames_min": 2,
+      "frames_max": 3,
+      "variants_min": 2,
+      "variants_max": 3
+    },
+    "G6": {
+      "components": [
+        "skill-card",
+        "list-row",
+        "status-badge",
+        "tab-bar",
+        "visibility-selector",
+        "file-attach-row",
+        "confirm-checkbox"
+      ]
+    },
+    "G7": {
+      "required_screens": [
+        "screen/home",
+        "screen/skills",
+        "screen/my-assets/register"
+      ]
+    },
+    "max_consecutive_failures": 3,
+    "screen_frames": {
+      "홈": "screen/home",
+      "스킬 라이브러리": "screen/skills",
+      "내 자산": "screen/my-assets/register"
+    }
+  }
+}

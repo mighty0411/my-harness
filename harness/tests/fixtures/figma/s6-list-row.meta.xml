@@ -1,0 +1,7 @@
+<symbol id="23:26" name="list-row" x="0" y="309" width="342" height="68">
+  <frame id="23:27" name="texts" x="16" y="12" width="238" height="44">
+    <text id="23:28" name="title" x="0" y="0" width="238" height="23" />
+    <text id="23:29" name="meta" x="0" y="27" width="238" height="17" />
+  </frame>
+  <instance id="23:30" name="status-badge" x="266" y="20.5" width="60" height="27" />
+</symbol>

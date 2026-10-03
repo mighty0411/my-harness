@@ -1,0 +1,412 @@
+{
+ "frames": [
+  {
+   "id": "9:7",
+   "name": "screen/home",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:1",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "홈",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:2",
+     "name": "button/primary",
+     "type": "FRAME",
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 8,
+     "height": 48,
+     "interactive": true,
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     }
+    },
+    {
+     "id": "9:3",
+     "name": "card/content",
+     "type": "FRAME",
+     "fills": [
+      "#ffffff"
+     ],
+     "strokes": [
+      {
+       "color": "#f0f0f0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "cornerRadius": 24,
+     "itemSpacing": 8
+    },
+    {
+     "id": "9:4",
+     "name": "text-input",
+     "type": "FRAME",
+     "fills": [
+      "#f0f0f0"
+     ],
+     "strokes": [],
+     "cornerRadius": 8,
+     "height": 48,
+     "interactive": true,
+     "state": "rest"
+    },
+    {
+     "id": "9:5",
+     "name": "status-badge",
+     "type": "FRAME",
+     "text": "작성 중",
+     "fills": [
+      "#ffffff"
+     ],
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "dashed"
+      }
+     ],
+     "textColor": "#707070",
+     "cornerRadius": 9999,
+     "icon": "✎",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     }
+    },
+    {
+     "id": "9:6",
+     "name": "status-badge",
+     "type": "FRAME",
+     "text": "승인됨",
+     "fills": [
+      "#141414"
+     ],
+     "strokes": [],
+     "textColor": "#ffffff",
+     "cornerRadius": 9999,
+     "icon": "✓",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 12
+     }
+    },
+    {
+     "id": "9:37",
+     "name": "muted",
+     "type": "TEXT",
+     "text": "보조 문구",
+     "textColor": "#707070",
+     "bg": "#f3f3f3",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    }
+   ]
+  },
+  {
+   "id": "9:11",
+   "name": "screen/skills",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:8",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "스킬 라이브러리",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:9",
+     "name": "skill-card/item",
+     "type": "FRAME",
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 24
+    },
+    {
+     "id": "9:10",
+     "name": "tab-bar",
+     "type": "FRAME",
+     "fills": [
+      "#f3f3f3"
+     ],
+     "cornerRadius": 9999,
+     "height": 56
+    }
+   ]
+  },
+  {
+   "id": "9:17",
+   "name": "screen/my-assets/register@seller",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:12",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "자산 등록",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:13",
+     "name": "visibility-selector",
+     "type": "FRAME",
+     "fills": [
+      "#f3f3f3"
+     ]
+    },
+    {
+     "id": "9:14",
+     "name": "option/private",
+     "selected": true
+    },
+    {
+     "id": "9:15",
+     "name": "option/member-only",
+     "selected": false
+    },
+    {
+     "id": "9:16",
+     "name": "option/sale-request",
+     "selected": false
+    }
+   ]
+  },
+  {
+   "id": "9:22",
+   "name": "screen/my-assets/register@non-seller",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:18",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "자산 등록",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:19",
+     "name": "visibility-selector",
+     "type": "FRAME",
+     "fills": [
+      "#f3f3f3"
+     ]
+    },
+    {
+     "id": "9:20",
+     "name": "option/private",
+     "selected": true
+    },
+    {
+     "id": "9:21",
+     "name": "option/member-only",
+     "selected": false
+    }
+   ]
+  },
+  {
+   "id": "9:27",
+   "name": "screen/my-assets/sale-request@unchecked",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:23",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "판매 신청",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:24",
+     "name": "notice",
+     "type": "TEXT",
+     "text": "개인정보, 고객정보, 회사기밀, 타인 저작물은 판매 자산에 포함할 수 없어요",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:25",
+     "name": "confirm-checkbox",
+     "type": "FRAME"
+    },
+    {
+     "id": "9:26",
+     "name": "submit-button",
+     "type": "FRAME",
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 8,
+     "height": 48,
+     "interactive": true,
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     },
+     "variant": "disabled"
+    }
+   ]
+  },
+  {
+   "id": "9:32",
+   "name": "screen/my-assets/sale-request@checked",
+   "page": "S7 Screens",
+   "width": 390,
+   "height": 844,
+   "padding": {
+    "left": 16,
+    "right": 16
+   },
+   "nodes": [
+    {
+     "id": "9:28",
+     "name": "heading",
+     "type": "TEXT",
+     "text": "판매 신청",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 700,
+      "size": 28
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:29",
+     "name": "notice",
+     "type": "TEXT",
+     "text": "개인정보, 고객정보, 회사기밀, 타인 저작물은 판매 자산에 포함할 수 없어요",
+     "textColor": "#141414",
+     "bg": "#ffffff",
+     "font": {
+      "family": "Pretendard",
+      "weight": 400,
+      "size": 13
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL"
+    },
+    {
+     "id": "9:30",
+     "name": "confirm-checkbox",
+     "type": "FRAME"
+    },
+    {
+     "id": "9:31",
+     "name": "submit-button",
+     "type": "FRAME",
+     "fills": [
+      "#141414"
+     ],
+     "cornerRadius": 8,
+     "height": 48,
+     "interactive": true,
+     "padding": {
+      "left": 16,
+      "right": 16,
+      "top": 0,
+      "bottom": 0
+     },
+     "variant": "enabled"
+    }
+   ]
+  }
+ ]
+}
