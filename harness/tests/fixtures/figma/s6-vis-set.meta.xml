@@ -1,0 +1,7 @@
+<frame id="23:98" name="visibility-selector" x="0" y="561" width="1838" height="229">
+  <symbol id="23:54" name="role=seller, selected=private" x="0" y="0" width="342" height="229" />
+  <symbol id="23:64" name="role=seller, selected=member-only" x="374" y="0" width="342" height="229" />
+  <symbol id="23:74" name="role=seller, selected=sale-request" x="748" y="0" width="342" height="229" />
+  <symbol id="23:84" name="role=non-seller, selected=private" x="1122" y="0" width="342" height="150" />
+  <symbol id="23:91" name="role=non-seller, selected=member-only" x="1496" y="0" width="342" height="150" />
+</frame>

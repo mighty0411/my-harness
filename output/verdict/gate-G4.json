@@ -1,0 +1,14 @@
+{
+  "gate": "G4",
+  "passed": true,
+  "messages": [],
+  "violations": [],
+  "unverifiable": [
+    {
+      "rule": "V1",
+      "frame": "screen/my-assets/register",
+      "node": null,
+      "missing": "screen/my-assets/register@non-seller"
+    }
+  ]
+}

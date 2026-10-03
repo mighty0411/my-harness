@@ -1,0 +1,61 @@
+{
+  "gate": "G8",
+  "passed": false,
+  "messages": [
+    "badge [screen/home] 189:746: 작성 중 아이콘 None",
+    "badge [screen/home] 189:757: 제출 완료 아이콘 None",
+    "badge [screen/home] 189:768: 검수 대기 아이콘 None"
+  ],
+  "violations": [
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:746",
+      "message": "작성 중 아이콘 None"
+    },
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:757",
+      "message": "제출 완료 아이콘 None"
+    },
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:768",
+      "message": "검수 대기 아이콘 None"
+    }
+  ],
+  "unverifiable": [
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:733",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:735",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:737",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:739",
+      "missing": "font"
+    },
+    {
+      "rule": "D10",
+      "frame": "screen/skills",
+      "node": "I73:572;72:297",
+      "missing": "height"
+    }
+  ]
+}

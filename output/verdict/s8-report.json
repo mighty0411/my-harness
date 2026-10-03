@@ -1,0 +1,72 @@
+{
+  "passed": false,
+  "counts": {
+    "D01": 0,
+    "D02": 0,
+    "D03": 0,
+    "D04": 0,
+    "D05": 0,
+    "D06": 0,
+    "D07": 0,
+    "D08": 0,
+    "D09": 0,
+    "D10": 0,
+    "D11": 0,
+    "D12": 0,
+    "V1": 0,
+    "V2": 0,
+    "badge": 3
+  },
+  "violations": [
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:746",
+      "message": "작성 중 아이콘 None"
+    },
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:757",
+      "message": "제출 완료 아이콘 None"
+    },
+    {
+      "rule": "badge",
+      "frame": "screen/home",
+      "node": "189:768",
+      "message": "검수 대기 아이콘 None"
+    }
+  ],
+  "unverifiable": [
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:733",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:735",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:737",
+      "missing": "font"
+    },
+    {
+      "rule": "D07",
+      "frame": "screen/home",
+      "node": "189:739",
+      "missing": "font"
+    },
+    {
+      "rule": "D10",
+      "frame": "screen/skills",
+      "node": "I73:572;72:297",
+      "missing": "height"
+    }
+  ]
+}

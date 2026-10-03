@@ -1,0 +1,16 @@
+<frame id="7:3" name="screen/dump-test" x="0" y="0" width="390" height="844">
+  <text id="7:4" name="heading" x="16" y="24" width="148" height="34" />
+  <text id="7:5" name="upper" x="16" y="70" width="136" height="18" />
+  <text id="7:6" name="wide-spacing" x="16" y="100" width="165" height="16" />
+  <text id="7:7" name="muted-on-soft" x="16" y="128" width="190" height="16" />
+  <frame id="7:8" name="button/primary" x="16" y="156" width="358" height="48">
+    <text id="7:9" name="label" x="145.5" y="15" width="67" height="18" />
+  </frame>
+  <frame id="7:10" name="card/content" x="16" y="216" width="358" height="80" />
+  <frame id="7:11" name="status-badge" x="16" y="308" width="55" height="25">
+    <text id="7:12" name="badge-label" x="9" y="5" width="37" height="15" />
+  </frame>
+  <frame id="7:13" name="text-input" x="16" y="345" width="358" height="48" />
+  <rounded-rectangle id="7:14" name="decor" x="16" y="405" width="358" height="40" />
+  <rounded-rectangle id="7:15" name="accent-dot" x="16" y="457" width="24" height="24" />
+</frame>
