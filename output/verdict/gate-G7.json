@@ -1,29 +1,61 @@
 {
   "gate": "G7",
-  "passed": false,
-  "messages": [
-    "badge [screen/home] 189:746: 작성 중 아이콘 None",
-    "badge [screen/home] 189:757: 제출 완료 아이콘 None",
-    "badge [screen/home] 189:768: 검수 대기 아이콘 None"
-  ],
+  "passed": true,
+  "messages": [],
   "violations": [
     {
-      "rule": "badge",
+      "rule": "D09",
       "frame": "screen/home",
-      "node": "189:746",
-      "message": "작성 중 아이콘 None"
+      "node": "196:1206",
+      "message": "itemSpacing 10"
     },
     {
-      "rule": "badge",
+      "rule": "D09",
       "frame": "screen/home",
-      "node": "189:757",
-      "message": "제출 완료 아이콘 None"
+      "node": "196:1208",
+      "message": "itemSpacing 6"
     },
     {
-      "rule": "badge",
-      "frame": "screen/home",
-      "node": "189:768",
-      "message": "검수 대기 아이콘 None"
+      "rule": "D03",
+      "frame": "screen/skills",
+      "node": null,
+      "message": "accent 사용 요소 5개"
+    },
+    {
+      "rule": "D11",
+      "frame": "screen/my-assets/register@seller",
+      "node": "26:224",
+      "message": "포커스 링이 1px #141414가 아님"
+    },
+    {
+      "rule": "D12",
+      "frame": "screen/my-assets/sale-request@unchecked",
+      "node": "I26:261;23:29",
+      "message": "대비 4.31:1"
+    },
+    {
+      "rule": "D12",
+      "frame": "screen/my-assets/sale-request@unchecked",
+      "node": "I73:525;72:326;181:68;23:116",
+      "message": "금지 조합 #adadad on #f0f0f0"
+    },
+    {
+      "rule": "D12",
+      "frame": "screen/my-assets/sale-request@unchecked",
+      "node": "I73:525;72:326;181:68;23:116",
+      "message": "대비 1.97:1"
+    },
+    {
+      "rule": "D12",
+      "frame": "screen/my-assets/sale-request@checked",
+      "node": "I26:276;23:29",
+      "message": "대비 4.31:1"
+    },
+    {
+      "rule": "D03",
+      "frame": "screen/my-assets/sale-request@checked",
+      "node": "I73:533;72:326;181:68",
+      "message": "CTA 버튼에 accent 사용"
     }
   ],
   "unverifiable": [

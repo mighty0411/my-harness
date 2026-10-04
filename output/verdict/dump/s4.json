@@ -201,12 +201,12 @@
     },
     {
      "id": "82:100",
-     "name": "안녕하세요, 하준 님",
+     "name": "안녕하세요, 정은 님",
      "type": "TEXT",
      "width": 358,
      "height": 32,
      "effects": [],
-     "text": "안녕하세요, 하준 님",
+     "text": "안녕하세요, 정은 님",
      "textColor": "#141414",
      "font": {
       "family": "Pretendard",
@@ -1413,7 +1413,7 @@
      "name": "text-input",
      "type": "FRAME",
      "width": 358,
-     "height": 48,
+     "height": 56,
      "fills": [
       "#f0f0f0"
      ],
@@ -2364,7 +2364,7 @@
      "name": "footer",
      "type": "FRAME",
      "width": 390,
-     "height": 82,
+     "height": 90,
      "fills": [
       "#ffffff"
      ],
@@ -2377,7 +2377,7 @@
      "name": "action-area",
      "type": "FRAME",
      "width": 390,
-     "height": 48,
+     "height": 56,
      "fills": [
       "#ffffff"
      ],
@@ -2395,7 +2395,7 @@
      "name": "save-draft-button",
      "type": "FRAME",
      "width": 175,
-     "height": 48,
+     "height": 56,
      "fills": [
       "#ffffff"
      ],
@@ -2432,7 +2432,7 @@
      "name": "register-button",
      "type": "FRAME",
      "width": 175,
-     "height": 48,
+     "height": 56,
      "fills": [
       "#141414"
      ],
@@ -2634,7 +2634,7 @@
      "name": "content-area",
      "type": "FRAME",
      "width": 390,
-     "height": 663,
+     "height": 655,
      "fills": [],
      "cornerRadius": 0,
      "strokes": [],
@@ -2652,7 +2652,7 @@
      "name": "field/제목",
      "type": "FRAME",
      "width": 358,
-     "height": 79,
+     "height": 87,
      "fills": [],
      "cornerRadius": 0,
      "strokes": [],
@@ -2682,7 +2682,7 @@
      "name": "text-input",
      "type": "FRAME",
      "width": 358,
-     "height": 48,
+     "height": 56,
      "fills": [
       "#f0f0f0"
      ],
