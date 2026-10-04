@@ -3,7 +3,7 @@
   {
    "id": "35:82",
    "name": "skill-card",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 964,
    "height": 119,
    "padding": {
@@ -56,7 +56,7 @@
      "height": 17,
      "effects": [],
      "text": "AI 실무 · 프롬프트",
-     "textColor": "#707070",
+     "textColor": "#0066ff",
      "font": {
       "family": "Pretendard",
       "weight": 400,
@@ -246,7 +246,7 @@
      "height": 17,
      "effects": [],
      "text": "AI 실무 · 프롬프트",
-     "textColor": "#707070",
+     "textColor": "#0066ff",
      "font": {
       "family": "Pretendard",
       "weight": 400,
@@ -308,7 +308,7 @@
   {
    "id": "35:90",
    "name": "list-row",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 708,
    "height": 75,
    "padding": {
@@ -350,7 +350,7 @@
      "width": 326,
      "height": 75,
      "fills": [
-      "#ffffff"
+      "#e6f0ff"
      ],
      "cornerRadius": 16,
      "strokes": [],
@@ -408,7 +408,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#ffffff"
+     "bg": "#e6f0ff"
     },
     {
      "id": "23:29",
@@ -426,7 +426,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#ffffff"
+     "bg": "#e6f0ff"
     },
     {
      "id": "23:30",
@@ -469,7 +469,7 @@
      "width": 358,
      "height": 75,
      "fills": [
-      "#f3f3f3"
+      "#e6f0ff"
      ],
      "cornerRadius": 16,
      "strokes": [],
@@ -527,7 +527,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#f3f3f3"
+     "bg": "#e6f0ff"
     },
     {
      "id": "35:86",
@@ -545,7 +545,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#f3f3f3"
+     "bg": "#e6f0ff"
     },
     {
      "id": "35:89",
@@ -563,14 +563,14 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#f3f3f3"
+     "bg": "#e6f0ff"
     }
    ]
   },
   {
    "id": "23:19",
    "name": "status-badge",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 746,
    "height": 27,
    "padding": {
@@ -1012,7 +1012,7 @@
   {
    "id": "23:53",
    "name": "tab-bar",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 1886,
    "height": 64,
    "padding": {
@@ -2595,7 +2595,7 @@
   {
    "id": "23:98",
    "name": "visibility-selector",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 1838,
    "height": 229,
    "padding": {
@@ -3768,7 +3768,7 @@
   {
    "id": "23:99",
    "name": "file-attach-row",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 342,
    "height": 60,
    "padding": {
@@ -3928,7 +3928,7 @@
   {
    "id": "23:112",
    "name": "confirm-checkbox",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 716,
    "height": 64,
    "padding": {
@@ -4099,7 +4099,7 @@
   {
    "id": "23:122",
    "name": "text-input",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 716,
    "height": 56,
    "padding": {
@@ -4194,7 +4194,7 @@
   {
    "id": "23:117",
    "name": "submit-button",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 716,
    "height": 56,
    "padding": {
@@ -4209,7 +4209,7 @@
      "width": 342,
      "height": 56,
      "fills": [
-      "#141414"
+      "#0066ff"
      ],
      "cornerRadius": 8,
      "strokes": [],
@@ -4238,7 +4238,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#141414"
+     "bg": "#0066ff"
     },
     {
      "id": "23:115",
@@ -4247,16 +4247,10 @@
      "width": 342,
      "height": 56,
      "fills": [
-      "#ffffff"
+      "#f0f0f0"
      ],
      "cornerRadius": 8,
-     "strokes": [
-      {
-       "color": "#e0e0e0",
-       "weight": 1,
-       "style": "dashed"
-      }
-     ],
+     "strokes": [],
      "padding": {
       "left": 16,
       "right": 16,
@@ -4274,7 +4268,7 @@
      "height": 23,
      "effects": [],
      "text": "제출하기",
-     "textColor": "#707070",
+     "textColor": "#adadad",
      "font": {
       "family": "Pretendard",
       "weight": 600,
@@ -4282,14 +4276,14 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#ffffff"
+     "bg": "#f0f0f0"
     }
    ]
   },
   {
    "id": "72:333",
    "name": "footer",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 810,
    "height": 98,
    "padding": {
@@ -4722,39 +4716,6 @@
      "effects": []
     },
     {
-     "id": "I72:326;64:178",
-     "name": "save-draft-button",
-     "type": "FRAME",
-     "fills": [
-      "#ffffff"
-     ],
-     "cornerRadius": 8,
-     "strokes": [
-      {
-       "color": "#e0e0e0",
-       "weight": 1,
-       "style": "solid"
-      }
-     ],
-     "effects": []
-    },
-    {
-     "id": "I72:326;64:179",
-     "name": "text",
-     "type": "TEXT",
-     "effects": [],
-     "text": "임시저장",
-     "textColor": "#141414",
-     "font": {
-      "family": "Pretendard",
-      "weight": 600,
-      "size": 15
-     },
-     "letterSpacing": 0,
-     "textCase": "ORIGINAL",
-     "bg": "#ffffff"
-    },
-    {
      "id": "I72:331;64:191",
      "name": "home-indicator",
      "type": "FRAME",
@@ -4785,7 +4746,7 @@
   {
    "id": "64:190",
    "name": "action-area",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 810,
    "height": 56,
    "padding": {
@@ -4799,7 +4760,7 @@
      "type": "TEXT",
      "effects": [],
      "text": "판매 신청 제출",
-     "textColor": "#707070",
+     "textColor": "#adadad",
      "font": {
       "family": "Pretendard",
       "weight": 600,
@@ -4807,7 +4768,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#ffffff"
+     "bg": "#f0f0f0"
     },
     {
      "id": "64:188",
@@ -4828,7 +4789,7 @@
      "effects": []
     },
     {
-     "id": "64:178",
+     "id": "186:42",
      "name": "save-draft-button",
      "type": "FRAME",
      "width": 175,
@@ -4847,31 +4808,13 @@
      "effects": []
     },
     {
-     "id": "64:179",
-     "name": "임시저장",
-     "type": "TEXT",
-     "width": 52,
-     "height": 23,
-     "effects": [],
-     "text": "임시저장",
-     "textColor": "#141414",
-     "font": {
-      "family": "Pretendard",
-      "weight": 600,
-      "size": 15
-     },
-     "letterSpacing": 0,
-     "textCase": "ORIGINAL",
-     "bg": "#ffffff"
-    },
-    {
      "id": "181:66",
      "name": "register-button",
      "type": "FRAME",
      "width": 175,
      "height": 56,
      "fills": [
-      "#141414"
+      "#0066ff"
      ],
      "cornerRadius": 8,
      "strokes": [],
@@ -4902,16 +4845,10 @@
      "width": 358,
      "height": 56,
      "fills": [
-      "#ffffff"
+      "#f0f0f0"
      ],
      "cornerRadius": 8,
-     "strokes": [
-      {
-       "color": "#e0e0e0",
-       "weight": 1,
-       "style": "dashed"
-      }
-     ],
+     "strokes": [],
      "padding": {
       "left": 16,
       "right": 16,
@@ -4923,13 +4860,48 @@
      "variant": "disabled"
     },
     {
+     "id": "I186:42;186:40",
+     "name": "",
+     "type": "FRAME",
+     "width": 175,
+     "height": 56,
+     "fills": [
+      "#ffffff"
+     ],
+     "cornerRadius": 8,
+     "strokes": [
+      {
+       "color": "#e0e0e0",
+       "weight": 1,
+       "style": "solid"
+      }
+     ],
+     "effects": []
+    },
+    {
+     "id": "I186:42;186:39",
+     "name": "text",
+     "type": "TEXT",
+     "effects": [],
+     "text": "임시저장",
+     "textColor": "#141414",
+     "font": {
+      "family": "Pretendard",
+      "weight": 600,
+      "size": 15
+     },
+     "letterSpacing": 0,
+     "textCase": "ORIGINAL",
+     "bg": "#ffffff"
+    },
+    {
      "id": "I181:66;181:62",
      "name": "",
      "type": "FRAME",
      "width": 175,
      "height": 56,
      "fills": [
-      "#141414"
+      "#0066ff"
      ],
      "cornerRadius": 8,
      "strokes": [],
@@ -4949,14 +4921,14 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#141414"
+     "bg": "#0066ff"
     }
    ]
   },
   {
    "id": "175:382",
    "name": "chip",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 180,
    "height": 44,
    "padding": {
@@ -5043,7 +5015,7 @@
   {
    "id": "181:65",
    "name": "register-button",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 375,
    "height": 56,
    "padding": {
@@ -5058,7 +5030,7 @@
      "width": 175,
      "height": 56,
      "fills": [
-      "#141414"
+      "#0066ff"
      ],
      "cornerRadius": 8,
      "strokes": [],
@@ -5080,7 +5052,7 @@
      },
      "letterSpacing": 0,
      "textCase": "ORIGINAL",
-     "bg": "#141414"
+     "bg": "#0066ff"
     },
     {
      "id": "181:63",
@@ -5124,7 +5096,7 @@
   {
    "id": "186:41",
    "name": "save-draft-button",
-   "page": "S6 Components",
+   "page": "S6 Components (컴포넌트)",
    "width": 175,
    "height": 56,
    "padding": {
@@ -5174,15 +5146,16 @@
  ],
  "variables": {
   "colors": [
-   "#707070",
+   "#0066ff",
    "#141414",
    "#f3f3f3",
+   "#707070",
    "#ffffff",
    "#f0f0f0",
    "#e0e0e0",
-   "#0066ff",
+   "#e6f0ff",
    "#262626",
-   "#fafafa"
+   "#adadad"
   ],
   "radius": [
    9999,
@@ -5192,18 +5165,14 @@
    8,
    9999,
    8,
-   9999,
-   0
+   9999
   ],
   "spacing": [
-   8,
-   4,
-   16,
    0,
+   4,
+   8,
    12,
-   24,
-   32,
-   48
+   16
   ]
  }
 }

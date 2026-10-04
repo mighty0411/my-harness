@@ -14,9 +14,9 @@
     "S3": "passed",
     "S4": "passed",
     "S5": "passed",
-    "S6": "passed",
-    "S7": "passed",
-    "S8": "passed"
+    "S6": "pending",
+    "S7": "pending",
+    "S8": "pending"
   },
   "failures": {
     "S1": 0,
@@ -28,6 +28,6 @@
     "S7": 0,
     "S8": 0
   },
-  "last_passed": "S8",
-  "updated_at": "2026-10-03T00:27:40"
+  "last_passed": "S5",
+  "updated_at": "2026-10-04T22:59:11"
 }
