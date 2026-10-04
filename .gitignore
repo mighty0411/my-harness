@@ -1,2 +1,6 @@
 .DS_Store
 *.tmp
+__pycache__/
+*.pyc
+output/run/snapshots/
+output/run/s5-approval.previous*.md
